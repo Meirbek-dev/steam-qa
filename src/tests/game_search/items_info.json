@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Dota 2",
+        "release date": "9 Jul, 2013",
+        "platforms": [
+            "win",
+            "mac",
+            "linux"
+        ],
+        "price": "Free to Play",
+        "review summary": "Very Positive"
+    },
+    {
+        "name": "Dota 2 Player Profiles",
+        "release date": "13 Nov, 2015",
+        "platforms": [
+            "streamingvideoseries"
+        ],
+        "price": "Free",
+        "review summary": "Very Positive"
+    }
+]
